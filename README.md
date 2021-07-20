@@ -1,6 +1,5 @@
 # 👋🏻 Hi, my name is **Sasha Honcharenko**!
 ## I'm a beginner *Front-end developer* from Chernigiv.
-### Check my website: [jaabashooler.io](https://jaabashooler.github.io/Portfolio/result/)
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
